@@ -1,0 +1,2 @@
+Resumo da aula:
+*Criação, atualização e sicronização de um repositório no GitHub.
